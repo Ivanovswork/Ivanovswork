@@ -21,13 +21,24 @@
       Backend веб-сайта по продаже электронных книг.
     </a>
 
-- Научно-исследовательская работа <a href="https://docs.google.com/document/d/1XHqRNZStQQ4mhRIlYlUJzqE3uS54GcGa/edit?usp=sharing&ouid=105706108999021148192&rtpof=true&sd=true">
+- Научно-исследовательская работа
+  <a href="https://docs.google.com/document/d/1XHqRNZStQQ4mhRIlYlUJzqE3uS54GcGa/edit?usp=sharing&ouid=105706108999021148192&rtpof=true&sd=true">
       Анализ функционала технологий WebSocket и Long Polling для их использования при разработке чат-приложений.
+    </a> 
+  <a href="https://github.com/Ivanovswork/http_chat_srv">
+      http_chat
+    </a> и
+  <a href="https://github.com/Ivanovswork/websocket_chat">
+      websocket_chat
+    </a>.
+
+- Дипломная работа Нетологии  <a href="https://github.com/Ivanovswork/netology_dyplom">
+      Дипломная работа.
     </a>
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- Небольшая работа во время эксплуатационной практики <a href="https://github.com/iBurakov33/ModifiedOpenLabelling">
+      Скрипты
+    </a>.
 
 ---
 
