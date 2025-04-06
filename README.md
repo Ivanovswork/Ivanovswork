@@ -1,9 +1,9 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1mcnZlY29ycTV0c2Rnc2k0OGVvcTV1Z3Z0cnowNmc0ajAxd2FqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif)" width="100"/>
+</div>
 
 <!--
-**Ivanovswork/Ivanovswork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
