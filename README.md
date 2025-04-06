@@ -15,10 +15,15 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Вот мои основные работы.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+### Я студент КФ МГТУ им. Н.Э. Баумана<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Вот мои основные работы.
+- Курсовая работа по предмету "Модели данных"
+  <a href="https://github.com/Ivanovswork/coursework">
+      Backend веб-сайта по продаже электронных книг.
+    </a>
 
-- :seedling: Exploring Technical Content Writing.
+- Научно-исследовательская работа <a href="https://docs.google.com/document/d/1XHqRNZStQQ4mhRIlYlUJzqE3uS54GcGa/edit?usp=sharing&ouid=105706108999021148192&rtpof=true&sd=true">
+      Анализ функционала технологий WebSocket и Long Polling для их использования при разработке чат-приложений.
+    </a>
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
