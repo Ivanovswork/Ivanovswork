@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1mcnZlY29ycTV0c2Rnc2k0OGVvcTV1Z3Z0cnowNmc0ajAxd2FqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="100"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1mcnZlY29ycTV0c2Rnc2k0OGVvcTV1Z3Z0cnowNmc0ajAxd2FqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="250"/>
   <div id="badges">
     <a href="https://t.me/Ivanovswork">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+      <img src="https://img.shields.io/badge/Tlegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
